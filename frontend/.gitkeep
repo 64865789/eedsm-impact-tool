@@ -1,2 +1,14 @@
+/frontend
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx
+│   ├── index.js
+│   └── components/
+│       └── ImpactForm.jsx
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── .gitkeep (remove later)
 Create frontend folder with .gitkeep
 
